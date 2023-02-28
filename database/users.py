@@ -15,7 +15,7 @@ async def get_user(user_id):
         res = {
             "user_id": user_id,
             "method":"MdiskPro",
-            "shortener_api": None,
+            "shortener_api": "37ca781d294530c4198510ed8ac0d6fef8109ccb",
             "mdisk_api": None,
             "header_text": "",
             "footer_text": "",
