@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am ShortnerFly.com, Bulk Link Converter. I Can Convert Links Directly From Your Oggylink Account,
+I Am Oggylink.com, Bulk Link Converter. I Can Convert Links Directly From Your Oggylink Account,
     
 1. Go To 👉 https://Oggylink.com/member/tools/api  
 2. Than Copy API Key
